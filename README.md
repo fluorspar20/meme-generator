@@ -1,3 +1,14 @@
+This repository is live at https://mg-meme-generator01.netlify.app/
+
+
+![example](https://github.com/fluorspar20/meme-generator/blob/master/assets/Screenshot_2020-06-11%20React%20App.png)
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
